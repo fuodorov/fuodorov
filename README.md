@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I'm currently a research software engineer at the Budker Institute of Nuclear Physics in Novosibirsk, Russia where I help write code for modelling electron beam in linear induction accelerator LIA-20.
+- 🔭 
+
+<!--
+I'm currently a research software engineer at the Budker Institute of Nuclear Physics in Novosibirsk, Russia where I help write code for modelling electron beam in linear induction accelerator LIA-20.
 
 - ⚡ I’m currently studying at ITMO University and at the Yandex School of Data Analytics as a Python developer. 
 
-<!--
 **fuodorov/fuodorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
