@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi! I'm [**@fuodorov**](https://github.com/fuodorov) (Vyacheslav Fedorov).
 
-- 🔭 
+I'm software engineer, currently working [@Sibers](https://www.sibers.com). 
+
+Like any other programmer and passionate professional, I love learning new things and technologies. 
 
 <!--
 I'm currently a research software engineer at the Budker Institute of Nuclear Physics in Novosibirsk, Russia where I help write code for modelling electron beam in linear induction accelerator LIA-20.
