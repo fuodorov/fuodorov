@@ -2,6 +2,10 @@
 
 I'm software engineer, currently working [@Sibers](https://www.sibers.com). 
 
+<!-- Until 2020, I studied accelerator physics at [@NSU](https://english.nsu.ru), [@ITMO](https://en.itmo.ru) and [@BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics). 
+
+Since 2020, I have been studying software development at [@SibSUTIS](https://sibsutis.ru/en/) and [@SHAD](https://yandexdataschool.com). -->
+
 Like any other programmer and passionate professional, I love learning new things and technologies. 
 
 <!--
