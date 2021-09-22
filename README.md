@@ -1,9 +1,9 @@
 ### Hi! I'm [**@fuodorov**](https://github.com/fuodorov) (Vyacheslav Fedorov).
 
 I'm software engineer, currently working [@Sibers](https://www.sibers.com). 
-<!-- 
-Until 2021, I studied accelerator physics at [@NSU](https://english.nsu.ru), [@ITMO](https://en.itmo.ru) and [@BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics). Since 2021, I have been studying software development at [@SibSUTIS](https://sibsutis.ru/en/) and [@Yandex](https://yandexdataschool.com). -->
 
+<!-- Until 2021, I studied accelerator physics at [@NSU](https://english.nsu.ru), [@ITMO](https://en.itmo.ru) and [@BINP](https://www.inp.nsk.su/budker-institute-of-nuclear-physics). Since 2021, I have been studying software development at [@SibSUTIS](https://sibsutis.ru/en/) and [@Practicum](https://practicum.yandex.com).
+ -->
 Like any other programmer and passionate professional, I love learning new things and technologies. 
 
 <!--
