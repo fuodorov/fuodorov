@@ -1,6 +1,6 @@
 ### Hi! I'm [**@fuodorov**](https://github.com/fuodorov) (Vyacheslav Fedorov).
 
-I'm software engineer.
+I'm software engineer and physicist.
 
 <!-- currently working [@Sibers](https://www.sibers.com) and [@BINP](https://inp.nsk.su/budker-institute-of-nuclear-physics).  -->
 
