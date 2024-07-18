@@ -1,4 +1,4 @@
-### Hi! I'm [**@fuodorov**](https://github.com/fuodorov) (Vyacheslav Fedorov).
+### Hi! I'm [**@fuodorov**](https://github.com/fuodorov).
 
 I'm software engineer and physicist.
 
