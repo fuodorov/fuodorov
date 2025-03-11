@@ -13,7 +13,7 @@ Like any other programmer and passionate professional, I love learning new thing
 
 Over the past few years, I have been actively studying algorithms, data structures, and web application architecture. Run workshops on complex CS topics for coworkers and friends. I have created courses on “Microservices Scalable Websites” and “Software Development and Applications in Physics Research”.
 
-I'm currently a researcher working in the field of accelerator physics.
+I'm currently a researcher working in the field of accelerator physics - <a href="https://www.researchgate.net/profile/Vyacheslav-Fedorov-5">Vyacheslav Fedorov on ResearchGate</a>.
 
 <!--
 I'm currently a research software engineer at the Budker Institute of Nuclear Physics in Novosibirsk, Russia where I help write code for modelling electron beam in linear induction accelerator LIA-20.
